@@ -1,16 +1,15 @@
-## Hi there 👋
+<div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lnZHczamo0b3oycGYwejIzbTg0bjZlY3ozd3Q2eDRieXJvenI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU9n2d0wH5OYbRPr3N/giphy.gif" 
+       width="300px" />
+</div>
+<br>
 
-<!--
-**xz-4rti/xz-4rti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Aarati Gurung👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently studying Desarrollo de Aplicación Web (Web Application Development), focusing on both frontend and backend.
+- 👯 I’m looking to collaborate on web development projects
+- 🤔 I’m looking for help with mastering advanced web frameworks and tools.
+- 📫 How to reach me: aaratigrg2121@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m passionate about creating websites that not only work but also look amazing. 💻✨
 -->
