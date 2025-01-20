@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lnZHczamo0b3oycGYwejIzbTg0bjZlY3ozd3Q2eDRieXJvenI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU9n2d0wH5OYbRPr3N/giphy.gif" 
+  <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" 
        width="300px" />
 </div>
 <br>
